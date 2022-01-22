@@ -1,0 +1,12 @@
+body{
+  background: url(https://media.istockphoto.com/vectors/autumn-woods-background-vector-id600670080?k=20&m=600670080&s=612x612&w=0&h=4sb7okxnxCVlkE2T_zZKQ8JHZXOTrIwEn5MSqYOAox8=) no-repeat lightskyblue fixed top right;
+
+}
+
+@media only screen and (max-width:600px ) {
+  
+  body {
+    background-color: olive;
+    color:navy;
+  }
+}
